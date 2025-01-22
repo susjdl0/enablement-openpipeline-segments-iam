@@ -14,4 +14,4 @@ data:
   # Enables application status badge feature
   statusbadge.enabled: "true"
   context: |
-    argocdUrl: "https://automatic-xylophone-6vrq7v44jq625jqw-ARGOCD_PORT_NUMBER_PLACEHOLDER.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER"  
+    argocdUrl: "https://automatic-xylophone-6vrq7v44jq625jqw-30100.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER"  

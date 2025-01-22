@@ -14,12 +14,12 @@ metadata:
     - url: https://github.com/susjdl0/enablement-openpipeline-segments-iam.git
       title: Github Repo
       icon: github
-    - url: https://automatic-xylophone-6vrq7v44jq625jqw-80.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
+    - url: https://automatic-xylophone-6vrq7v44jq625jqw-80.app.github.dev/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
       title: "Browse Application"
       icon: subject
     - title: View in ArgoCD
       icon: catalog
-      url: https://automatic-xylophone-6vrq7v44jq625jqw-30100.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/applications/argocd/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
+      url: https://automatic-xylophone-6vrq7v44jq625jqw-30100.app.github.dev/applications/argocd/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
     - title: View in Dynatrace
       icon: catalog
       url: https://yyy14874.apps.dynatrace.com
